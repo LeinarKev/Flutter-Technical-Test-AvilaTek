@@ -51,9 +51,9 @@ Latest App es una aplicación desarrollada en Flutter que muestra información d
 ## Estructura de Datos
 
 - **lib/** Contiene el código fuente de la aplicación.
-      - **home/**: Pantalla principal, listados de películas y navegación a detalle.
-      - **detail/**: Pantalla de detalle de la pelicula y sus actores.
-      - **profile/**: Pantalla de detalle del actor y las peliculas que ha actuado o pertenecido.
+  - home/: Pantalla principal, listados de películas y navegación a detalle.
+  - detail/: Pantalla de detalle de la pelicula y sus actores.
+  - profile/: Pantalla de detalle del actor y las peliculas que ha actuado o pertenecido.
 
 ## Configuración Adicional
 - **API Keys**: Asegúrate de configurar tu API key o token de The Movie Database en el código correspondiente (por ejemplo, en los servicios que consumen la API).
