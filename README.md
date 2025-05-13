@@ -33,5 +33,28 @@ Latest App es una aplicación desarrollada en Flutter que muestra información d
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/LeinarKev/Flutter-Technical-Test-AvilaTek.git
+   cd Flutter-Technical-Test-AvilaTek
+
+2. **Instalar dependencias:**
+
+ flutter pub get
+
+## Ejecución
+
+- **Dispositivos móviles**
+
+ flutter run
+
+## Estructura de Datos
+
+- **lib/** Contiene el código fuente de la aplicación.
+      - home/: Pantalla principal, listados de películas y navegación a detalle.
+      - detail/: Pantalla de detalle de la pelicula y sus actores.
+      - profile/: Pantalla de detalle del actor y las peliculas que ha actuado o pertenecido.
+
+## Configuración Adicional
+- **API Keys**: Asegúrate de configurar tu API key o token de The Movie Database en el código correspondiente (por ejemplo, en los servicios que consumen la API).
+
+## Contacto
+Para cualquier duda o comentario, puedes contactarme en **kevin.fernandez2065@gmail.com**
