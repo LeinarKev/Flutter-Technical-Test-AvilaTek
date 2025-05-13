@@ -38,13 +38,15 @@ Latest App es una aplicación desarrollada en Flutter que muestra información d
 
 2. **Instalar dependencias:**
 
+ ```bash
  flutter pub get
 
 ## Ejecución
 
 - **Dispositivos móviles**
 
- flutter run
+```bash
+flutter run
 
 ## Estructura de Datos
 
